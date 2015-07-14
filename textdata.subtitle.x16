@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <table release-module="LocalizationData" release-side="client" type="text" version="0.6">
-	<record alias="Subtitle_Test">แปลไทย 10/7/58</record>
+	<record alias="Subtitle_Test">แปลไทย 14/7/58</record>
 	<record alias="E_SJ01_dochun_01">นี่.....นี่มัน ตราของสำนักฮง</record>
 	<record alias="E_SJ01_jinyouung_01">เฮ้!!</record>
 	<record alias="E_SJ01_jinyouung_02">เฮ้!! ตื่นได้เเล้ว!!</record>
