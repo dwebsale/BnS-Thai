@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <table release-module="LocalizationData" release-side="client" type="text" version="0.6">
     <!--D:/Taiwan_BNS/2.4.52.363/Client/rc/bin/temp/text\textdata.subtitle.x16-->
-	<record alias="Subtitle_Test">แปลไทย 5/8/58 10%</record>
+	<record alias="Subtitle_Test">แปลไทย 9/8/58 10%</record>
 	<record alias="E_SJ01_dochun_01">This is... The Hongmen School crest?</record>
   <record alias="E_SJ01_jinyouung_01">Hey!</record>
   <record alias="E_SJ01_jinyouung_02">Hey! Wake up!</record>
